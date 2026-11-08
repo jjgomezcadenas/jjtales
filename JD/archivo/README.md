@@ -12,3 +12,8 @@ Copias de las versiones anteriores de los ensayos, además de su historia en git
 | `ParaisoPerdido_v3.tex` | f8438b1 | 2026-11-08 11:48 | Münster, Le Lionnais, Gödel y Turing precisados, Penrose |
 | `ParaisoPerdido_v4.tex` | 11ae312 | 2026-11-08 12:07 | nota de Pangram, impostores, «Además» |
 | `ParaisoPerdido_v5.tex` | d9b2584 | 2026-11-08 12:43 | retoques del autor: leve, armar/fabricar, nota de AlphaZero |
+
+## Otros
+
+- `neutrinos_teoremas.tex` (+ pdf, docx): «Neutrinos, mentiras y detectores de IA», publicado; se guarda aquí.
+- `fermat.jpg`, `fermat_n2.pdf`, `fermat_n2.png`: figuras de Fermat.
